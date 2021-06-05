@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../PRO-C-32-Template-main 2"
+		},
+		{
+			"path": "../angryBirdsStage8.5-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "angryBirdsStage8.5-master"
+	}
+}
